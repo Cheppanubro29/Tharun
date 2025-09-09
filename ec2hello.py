@@ -1,1 +1,2 @@
-print("Hellooo from updated EC2!")
+print("Hello from EC2!")
+print("Hello from GitHub!")
