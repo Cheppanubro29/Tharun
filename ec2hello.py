@@ -1,1 +1,1 @@
-print("Hello from updated EC2!")
+print("Hellooo from updated EC2!")
